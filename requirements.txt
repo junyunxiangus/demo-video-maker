@@ -1,0 +1,7 @@
+# 必需（配音/TTS 需要联网）
+pillow>=9.0
+numpy>=1.21
+edge-tts>=6.1
+
+# 可选：仅在用 analyze_recording.py 做 OCR 画面节点定位时需要
+# rapidocr-onnxruntime>=1.3

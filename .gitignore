@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+_frames/
+_segs/
+_voice/
+_selftest/
+_chk/
+输出/
+tools/
+*.mp4
+*.wav
+*.mp3
